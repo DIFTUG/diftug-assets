@@ -1,6 +1,6 @@
 # diftug-assets
 
-Public binary assets for **Do It For The Underground** (`doitfortheunderground.vercel.app`).
+Public binary assets for **Do It For The Underground** (`doitfortheunderground.com`).
 
 This repository exists so the site deployment stays small. The images below total about
 2.2 MB on their own — more than the entire website source — and none of them are needed to
