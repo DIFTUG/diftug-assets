@@ -7,7 +7,7 @@ This repository exists so the site deployment stays small. The images below tota
 render a page. They are served from jsDelivr instead of from Vercel:
 
 ```
-https://cdn.jsdelivr.net/gh/Moonfire-dreamwalkers/diftug-assets@v1/<file>
+https://cdn.jsdelivr.net/gh/DIFTUG/diftug-assets@v1/<file>
 ```
 
 `@v1` is a tag, so the URLs are immutable and cached hard; publishing new artwork means
